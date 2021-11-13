@@ -1,0 +1,35 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.651);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 70%;
+    background-color: rgb(66, 66, 66);
+}
+.header {
+    height: 5%;
+    background-color: rgb(27, 27, 27);
+    padding-left: 5%;
+}
+.screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 25%;
+    background-color: grey;
+}
+.bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}

@@ -1,0 +1,9 @@
+.maintext {
+    margin: 0 5% 5% 0;
+    font-size: 35px;
+}
+.subtext {
+    margin: 0 5% 0 0;
+    font-size: 18px;
+    opacity: 0.7;
+}
